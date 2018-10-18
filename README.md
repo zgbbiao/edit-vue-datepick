@@ -1,5 +1,5 @@
 # vue2-datepicker
-修改过的，
+因项目需要， 源码进行修改， 请返回正版地址访问
 [中文版](https://github.com/mengxiong10/vue2-datepicker/blob/master/README.zh-CN.md)
 
 > A Datepicker Component For Vue2
