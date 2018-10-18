@@ -1,8 +1,0 @@
-/build/
-/config/
-/dist/
-/lib/
-/coverage/
-/*.js
-
-node_modules
